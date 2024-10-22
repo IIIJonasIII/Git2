@@ -7,6 +7,5 @@ internal class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Test nummer två");
         Console.WriteLine("Test nummer tre");
-        Console.WriteLine("fyra");
     }
 }
